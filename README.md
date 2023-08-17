@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Codrina Lisaru</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codrinaignat&label=Profile%20views&color=0e75b6&style=flat" alt="codrinaignat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codrinaignat&label=Profile%20views&color=0e75b6&style=flat" alt="codrinaignat" />
+<img align="right" alt="Working" width="400" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
+</p>
 
 - 📫 How to reach me **codrinaignat@hotmail.com**
 
