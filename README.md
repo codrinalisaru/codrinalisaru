@@ -25,8 +25,8 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/jira3124.jpg" alt="jira" width="40" height="40"/> </a> 
 <a href="https://www.vector.com/int/en/products/products-a-z/software/canape/" target="_blank" rel="noreferrer"><img src="https://www.mathworks.com/products/connections/product_detail/vector-canape/_jcr_content/logo.adapt.full.medium.jpg/1645121791615.jpg" alt="vectorcanape" width="40" height="40"/> </a> 
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/ytc/AOPolaT9MYIFJK1CWg3Q-i4TQEylrn_dH5V0cyEWlasg=s900-c-k-c0x00ffffff-no-rj" alt="kicad" width="40" height="40"/></a> 
-<a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" alt="catia" width="40" height="40" </p>
-
-
+<a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" alt="catia" width="40" height="40"></a> 
+<a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"></a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinaignat&" alt="codrinaignat" /></p>
