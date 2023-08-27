@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Codrina Lisaru</h1>
+<h1 align="center">Hello!👋 I'm Codrina Lisaru</h1>
+<h2 align="center">Welcome to my profile</h2>
 <p align="left"> 
 <img align="right" alt="Working" width="300" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
 </p>
