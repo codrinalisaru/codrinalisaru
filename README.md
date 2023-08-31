@@ -4,13 +4,13 @@
 <img align="right" alt="Working" width="300" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
 </p>
 
-- Junior software tester in automotive industry, with experience in hardware development, hardware test and electromagnetic compatibility engineering. 
+- 🔧 Junior software tester in automotive industry, with experience in hardware development, hardware test and electromagnetic compatibility engineering ⚡. 
 
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
 - 📄 Here's my résumé: [https://shorturl.at/cfDL6](https://shorturl.at/cfDL6)
 
-- Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
+- 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
 
 <h3 align="left">Languages and Tools:</h3>
