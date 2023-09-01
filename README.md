@@ -1,5 +1,4 @@
-<h1 align="center">Hello!👋 I'm Codrina Lisaru</h1>
-<h2 align="center">Welcome to my profile</h2>
+<h2 align="center">Hello! I'm Codrina Lisaru 👋 Welcome to my profile</h2>
 <p align="left"> 
 <img align="right" alt="Working" width="300" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
 </p>
@@ -9,6 +8,8 @@
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
 - 📄 Here's my résumé: [https://shorturl.at/cfDL6](https://shorturl.at/cfDL6)
+
+- 💡 We can talk about: **software testing, electromagnetic compatibility, automotive quality assurance, hardware development and testing, electronics, Wordpress and creative writing, technical documentation, ISO standards and CISPR for EMC testing and more.**
 
 - 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
