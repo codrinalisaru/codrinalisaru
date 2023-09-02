@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
-- 📄 Here's my résumé: [https://shorturl.at/cfDL6](https://shorturl.at/cfDL6)
+- 📄 Here's my résumé: [https://codrinalisaru.blogspot.com/](https://codrinalisaru.blogspot.com/)
 
 - 💡 We can talk about: **software testing, electromagnetic compatibility, automotive quality assurance, hardware development and testing, electronics, Wordpress and creative writing, technical documentation, ISO standards and CISPR for EMC testing and more.**
 
