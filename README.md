@@ -32,8 +32,8 @@
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"></a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinaignat&" alt="codrinaignat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinaignat&show_icons=true&locale=en&layout=compact" alt="codrinaignat" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinaignat&" alt="codrinaignat" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinaignat&show_icons=true&locale=en&layout=compact" alt="codrinaignat" /></p>
+
 
 
