@@ -38,6 +38,7 @@
 <a href="https://www.autodesk.com/products/eagle/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zDwxvGCU7fULX9REKXtvccQevITBmr_G5fKjyMfdcdxmcJF5sroBOhVh-dlGnWj2tJw&usqp=CAU" alt="eagle" width="40" height="40"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Python" width="40" height="40"></a>
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"></a>
+<a href="https://piketec.com/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4fe2ca498eb26749b7ded962f463c23a/tpt.png" alt="TPT" width="40" height="40"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinaignat&show_icons=true&locale=en&layout=compact" alt="codrinaignat" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinaignat&" alt="codrinaignat" /></p>
