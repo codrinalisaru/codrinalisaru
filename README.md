@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
+- Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
+
 - 💡 We can talk about: 
 ✅ software testing
 ✅ electromagnetic compatibility
@@ -18,6 +20,7 @@
 
 - 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
