@@ -42,8 +42,8 @@
 <a href="https://piketec.com/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4fe2ca498eb26749b7ded962f463c23a/tpt.png" alt="TPT" width="40" height="40"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinaignat&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true&langs_count=8" alt="most-used-languages-stats" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinaignat&theme=transparent" alt="streak-stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinalisaru&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true&langs_count=8" alt="most-used-languages-stats" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codrinalisaru&theme=transparent" alt="streak-stats" /></p>
 
 
 
