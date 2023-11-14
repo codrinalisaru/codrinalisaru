@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
-- Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
+- 📖 Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
 
 - 💡 We can talk about: 
 ✅ software testing
