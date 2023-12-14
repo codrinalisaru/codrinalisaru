@@ -14,7 +14,7 @@
 - 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
   [https://compatibilitateelectromagnetica.wordpress.com/](https://compatibilitateelectromagnetica.wordpress.com/)
-  []()
+  [https://historiaestluxveritatis.wordpress.com/](https://historiaestluxveritatis.wordpress.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
