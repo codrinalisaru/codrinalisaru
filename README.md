@@ -3,7 +3,7 @@
 <img align="right" alt="Working" width="300" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
 </p>
 
-- 🔧 Software tester with strong background in automotive industry, with experience in hardware development, hardware test and electromagnetic compatibility engineering ⚡ Good knowledge of requirements engineering, hardware and quality engineering. Also good knowledge of Python, Embedded C, C++, Matlab programming languages.  
+- 🔧 Software tester with background in automotive industry, with experience in hardware development, hardware test and electromagnetic compatibility engineering ⚡ Good knowledge of requirements engineering, hardware and quality engineering. Also good knowledge of Python, Embedded C, C++, Matlab programming languages.  
 
 - 📫 How to reach me: **codrinaignat@hotmail.com**
 
