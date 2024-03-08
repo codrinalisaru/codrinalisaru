@@ -5,8 +5,6 @@
 
 - 🔧 Software tester with experience in hardware development, hardware test and electromagnetic compatibility engineering ⚡ Good knowledge of requirements engineering, hardware and quality engineering, Python, Embedded C, C++, Matlab programming languages.  
 
-- 📫 How to reach me: **codrinaignat@hotmail.com**
-
 - 📖 Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
 
 - 💡 We can talk about: **software testing, electromagnetic compatibility, automotive quality assurance, hardware development and testing, Wordpress and creative writing, technical documentation, ISO standards and CISPR for EMC testing and more.**
