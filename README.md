@@ -7,7 +7,7 @@
 
 - 📖 Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
 
-- 💡 We can talk about: **software testing, electromagnetic compatibility, automotive quality assurance, hardware development and testing, Wordpress and creative writing, technical documentation, ISO standards and CISPR for EMC testing and more.**
+- 💡 We can talk about: **software testing, electromagnetic compatibility, automotive quality assurance, hardware development and testing, Wordpress and creative writing,  ISO standards and CISPR for EMC testing and more.**
 
 - 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
