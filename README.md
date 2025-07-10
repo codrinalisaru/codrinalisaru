@@ -35,6 +35,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40"></a>
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"></a>
 <a href="https://piketec.com/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4fe2ca498eb26749b7ded962f463c23a/tpt.png" alt="TPT" width="40" height="40"></a>
+<a href="https://learn.microsoft.com/en-us/ssms/install/install" target="_blank" rel="noreferrer"><img src="https://licendi.com/media/magefan_blog/Blog_Licendi_Portadas.png" alt="Microsoft SQL Server Management Studio" width="40" height="40"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codrinalisaru&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true&langs_count=10" alt="most-used-languages-stats" />
