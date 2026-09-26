@@ -3,7 +3,9 @@
 <img align="right" alt="Working" width="300" src="https://cdn2.vectorstock.com/i/1000x1000/40/76/cartoon-woman-freelancer-student-laptop-vector-20494076.jpg">
 </p>
 
-- 🔧 Software application developer with experience in software test, hardware development, hardware test and electromagnetic compatibility engineering ⚡ Good knowledge of requirements engineering, hardware and quality engineering, Python, Embedded C, C++, Matlab programming languages, Oracle Apex development, Oracle SQL Developer.  
+- 🔧 Software application developer with experience in software test, hardware development, hardware test and electromagnetic compatibility engineering.
+- 🔧 PhD student in Engineering and Management at Lucian Blaga University of Sibiu, focusing on software products quality testing using Artificial Intelligence. 
+- ⚡ Good knowledge of requirements engineering, hardware and quality engineering, Python, Embedded C, C++, Matlab programming languages, Oracle Apex development, Oracle SQL Developer.  
 
 - 📖 Here's my resume: [https://codrinalisaru.github.io/CV/](https://codrinalisaru.github.io/CV/)
 
@@ -11,6 +13,8 @@
 
 - 📖 Here's my Wordpress blogs: [https://pralineliterare.wordpress.com/](https://pralineliterare.wordpress.com/)
   [https://electronicaplicata.wordpress.com/](https://electronicaplicata.wordpress.com/)
+
+- 📖 Here's my ResearchGate profile: [https://www.researchgate.net/profile/Codrina-Lisaru/research](https://www.researchgate.net/profile/Codrina-Lisaru/research)
 
 
 <h3 align="left">Languages and Tools:</h3>
